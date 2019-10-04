@@ -155,10 +155,26 @@ img.add_border {
           
         </header>
     <div id="tipue_search_content">Develop << <a href='Develop.html'>Previous</a> <br /><h1>每周進度</h1>
-<p>建立個人的 cad2019倉儲</p>
-<p>影片網址:<a href="https://youtu.be/rkhGfvRbUt4">https://youtu.be/rkhGfvRbUt4</a><iframe allowfullscreen="allowfullscreen" height="314" src="//www.youtube.com/embed/rkhGfvRbUt4" width="560"></iframe></p>
+<h4>建立個人的 cad2019倉儲</h4>
+<p>影片網址:<a href="https://youtu.be/rkhGfvRbUt4">https://youtu.be/rkhGfvRbUt4</a></p>
+<p></p>
+<p><iframe allowfullscreen="allowfullscreen" height="314" src="//www.youtube.com/embed/rkhGfvRbUt4" width="560"></iframe></p>
 <p> </p>
-<p></p><br />Develop << <a href='Develop.html'>Previous</a> </div>
+<h4>Solvespace 編譯</h4>
+<p>1.<span>先將 E:\portablegit\bin\sh.exe 改名為 sh_rename_for_solvespace.exe</span></p>
+<p><span>2.git clone --recurse-submodules https://github.com/solvespace/solvespace.git solvespace</span></p>
+<p><span>3.編輯cmakelist內之713及714行   (加入#字號)</span></p>
+<p><span>4.cd solvespace&gt;cd extlib&gt;cd libpng&gt;mkdir build&gt;cd build</span></p>
+<p><span>5.執行這個指令cmake .. -G "MinGW Makefiles" -DCMAKE_BUILD_TYPE=Release<br/><span>mingw32-make</span></span><span><br/></span></p>
+<p><span>6.接下來需要進行 libpng.dll.a 的編譯, 並改名為 libpng_static.a</span></p>
+<p><span>7.將還需要增加的檔案複製到tmp/solvespace/build/bin</span></p>
+<p><span>8.在一次執行cmake .. -G "MinGW Makefiles" -DCMAKE_BUILD_TYPE=Release<br/><span>mingw32-make，將最後需要的東西補上。</span></span></p>
+<p><span><span>影片網址:<a href="https://youtu.be/HP_FiP3hAts">https://youtu.be/HP_FiP3hAts</a></span></span></p>
+<p><span><span></span></span></p>
+<p><span><span><iframe allowfullscreen="allowfullscreen" height="314" src="//www.youtube.com/embed/HP_FiP3hAts" width="560"></iframe></span></span></p>
+<p><span><span></span></span></p>
+<p><span><span></span></span></p>
+<p><span><span></span></span></p><br />Develop << <a href='Develop.html'>Previous</a> </div>
         
     <!-- footer -->
       <div class="container">
