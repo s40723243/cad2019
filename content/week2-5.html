@@ -154,18 +154,33 @@ img.add_border {
           </div>
           
         </header>
-    <div id="tipue_search_content">note << <a href='note.html'>Previous</a> <a href='Develop.html'>Next</a> >> Develop<br /><h1>About</h1>
-<p>此內容管理系統以 <a href="https://github.com/mdecourse/cmsimde">https://github.com/mdecourse/cmsimde</a> 作為 submodule 運作, 可以選定對應的版本運作, cmsimde 可以持續改版, 不會影響之前設為 submodule, 使用舊版 cmsimde 模組的內容管理相關運作.</p>
-<h4>利用 cmsimde 建立靜態網誌方法:</h4>
-<p>1. 在 github 建立倉儲, git clone 到近端</p>
-<p>2. 參考 <a href="https://github.com/mdecourse/newcms">https://github.com/mdecourse/newcms</a>, 加入除了 cmsimde 目錄外的所有內容</p>
-<p>以 git submodule add <a href="https://github.com/mdecourse/cmsimde">https://github.com/mdecourse/cmsimde</a> cmsimde</p>
-<p>建立 cmsimde 目錄, 並從 github 取下子模組內容.</p>
-<p>3.在近端維護時, 更換目錄到倉儲中的 cmsimde, 以 python wsgi.py 啟動近端網際伺服器.</p>
-<p>動態內容編輯完成後, 以 generate_pages 轉為靜態內容, 以 git add commit 及 push 將內容推到遠端.</p>
-<p>4. 之後若要以 git clone 取下包含 submodule 的所有內容, 執行:</p>
-<p>git clone --recurse-submodules <a href="https://github.com/mdecourse/newcms.git">https://github.com/mdecourse/newcms.git</a></p>
-<br />note << <a href='note.html'>Previous</a> <a href='Develop.html'>Next</a> >> Develop</div>
+    <div id="tipue_search_content">Week << <a href='Week.html'>Previous</a> <a href='week6-9.html'>Next</a> >> week6-9<br /><h1>week2-5</h1>
+<p><strong><span style="color: #ff0000;">week2</span></strong></p>
+<p><strong>建立個人的 cad2019倉儲</strong></p>
+<p>影片網址:<a href="https://youtu.be/rkhGfvRbUt4">https://youtu.be/rkhGfvRbUt4</a></p>
+<p><iframe allowfullscreen="allowfullscreen" height="314" src="//www.youtube.com/embed/rkhGfvRbUt4" width="560"></iframe></p>
+<p></p>
+<p><span style="color: #ff0000;"><strong>week3</strong></span></p>
+<p><strong>Solvespace 編譯</strong></p>
+<p>1.<span>先將 E:\portablegit\bin\sh.exe 改名為 sh_rename_for_solvespace.exe</span></p>
+<p><span>2.git clone --recurse-submodules https://github.com/solvespace/solvespace.git solvespace</span></p>
+<p><span>3.編輯cmakelist內之713及714行   (加入#字號)</span></p>
+<p><span>4.cd solvespace&gt;cd extlib&gt;cd libpng&gt;mkdir build&gt;cd build</span></p>
+<p><span>5.執行這個指令cmake .. -G "MinGW Makefiles" -DCMAKE_BUILD_TYPE=Release<br/><span>mingw32-make</span></span><span><br/></span></p>
+<p><span>6.接下來需要進行 libpng.dll.a 的編譯, 並改名為 libpng_static.a</span></p>
+<p><span>7.將還需要增加的檔案複製到tmp/solvespace/build/bin</span></p>
+<p><span>8.在一次執行cmake .. -G "MinGW Makefiles" -DCMAKE_BUILD_TYPE=Release<br/><span>mingw32-make，將最後需要的東西補上。</span></span></p>
+<p><span><span>影片網址:<a href="https://youtu.be/HP_FiP3hAts">https://youtu.be/HP_FiP3hAts</a></span></span></p>
+<p><iframe allowfullscreen="allowfullscreen" height="314" src="//www.youtube.com/embed/HP_FiP3hAts" width="560"></iframe></p>
+<p><span style="color: #ff0000;"><strong>wee4</strong></span></p>
+<p><strong>自主練習</strong></p>
+<p><span style="color: #ff0000;"><strong>wee5</strong></span></p>
+<h4><strong>Solvespace 的簡單操作</strong></h4>
+<p>練習老師給的編號3的工件</p>
+<p><span>影片網址:<a href="https://youtu.be/ChDmSAdeyMo">https://youtu.be/ChDmSAdeyMo</a></span></p>
+<p><span><span><iframe allowfullscreen="allowfullscreen" height="314" src="//www.youtube.com/embed/ChDmSAdeyMo" width="560"></iframe></span></span></p>
+<p></p>
+<p></p><br />Week << <a href='Week.html'>Previous</a> <a href='week6-9.html'>Next</a> >> week6-9</div>
         
     <!-- footer -->
       <div class="container">
