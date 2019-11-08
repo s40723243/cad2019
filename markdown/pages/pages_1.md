@@ -6,7 +6,7 @@ Title: About
 
 內容管理: <a href="https://s40723243.github.io/cad2019/content/index.html">https://s40723243.github.io/cad2019/content/index.html</a>
 
-課程投影片: <a href="https://chiamingyen.github.io/cmsimfly/reveal">https://chiamingyen.github.io/cmsimfly/reveal</a>
+期中影片: <a href="https://youtu.be/EjMTw2I-nF0">https://youtu.be/EjMTw2I-nF0</a>
 
 課程網誌: <a href="https://s40723243.github.io/cad2019/blog/index.html">https://s40723243.github.io/cad2019/blog/index.htmlblog</a>
 
