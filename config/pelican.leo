@@ -14,14 +14,14 @@
 <v t="leo.20180115150519.1"><vh>@edit index.html</vh></v>
 <v t="yen.20170108171733.3"><vh>@edit README.md</vh></v>
 <v t="yen.20170108171733.4"><vh>@edit .gitignore</vh></v>
-<v t="leo.20170908162839.1"><vh>沒有 disqus 論壇</vh>
-<v t="yen.20170108171733.2"><vh>@button local-blog</vh></v>
-</v>
 <v t="leo.20170908162904.1"><vh>有 disqus 論壇</vh>
 <v t="leo.20170709224430.1"><vh>@button github-blog</vh></v>
 </v>
 <v t="yen.20170108171733.5"><vh>Pelican 設定</vh>
 <v t="leo.20170709020600.1"><vh>共用</vh></v>
+<v t="leo.20170908162839.1"><vh>沒有 disqus 論壇</vh>
+<v t="yen.20170108171733.2"><vh>@button local-blog</vh></v>
+</v>
 <v t="yen.20170108171733.7"><vh>@edit pelicanconf.py</vh></v>
 <v t="leo.20170709015947.1"><vh>遠端</vh></v>
 <v t="leo.20170709015955.1"><vh>@edit publishconf.py</vh></v>
@@ -67,7 +67,8 @@
 <v t="leo.20170710022041.1"><vh>@path markdown</vh>
 <v t="leo.20180115115910.1"><vh>2018</vh>
 <v t="leo.20180423103639.1"><vh>2018 Fall CP 課程</vh>
-<v t="leo.20180423103656.1"><vh>@edit 20180910.md</vh></v>
+<v t="leo.20191108180908.1"><vh>@edit 20180910.md</vh></v>
+<v t="leo.20191108180916.1"><vh>@edit 20180910.md</vh></v>
 <v t="leo.20180909205246.1"><vh>@edit 20180911.md</vh></v>
 </v>
 </v>

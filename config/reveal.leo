@@ -23,20 +23,19 @@
 </v>
 <v t="leo.20180902120523.11"><vh>快捷鍵</vh>
 <v t="leo.20180902120523.12"><vh>投影片快捷鍵</vh></v>
-<v t="leo.20191108171728.1"><vh>投影片快捷鍵</vh></v>
 </v>
+<v t="leo.20191108173101.1"><vh>投影片快捷鍵</vh></v>
+<v t="leo.20191108173649.1"><vh>投影片快捷鍵</vh></v>
 <v t="leo.20180902120523.13"><vh>各式內容引用範例</vh>
 <v t="leo.20180902120523.14"><vh>導入數學符號與方程式</vh>
+<v t="leo.20180902120523.17"><vh>引用程式碼</vh></v>
 <v t="leo.20180902120523.15"><vh>LaTeX 格式方程式</vh></v>
 </v>
-<v t="leo.20180902120523.16"><vh>導入縮排程式碼</vh>
-<v t="leo.20180902120523.17"><vh>引用程式碼</vh></v>
 </v>
-<v t="leo.20180902120523.18"><vh>導入影片</vh>
+<v t="leo.20180902120523.18"><vh>導入影片</vh></v>
+</v>
+<v t="leo.20180902120523.16"><vh>導入縮排程式碼</vh></v>
 <v t="leo.20180902120523.19"><vh>iframe 導入影片</vh></v>
-</v>
-</v>
-</v>
 </v>
 </v>
 </v>
@@ -67,6 +66,7 @@ Created by [劉子源](https://s40723243.github.io/cad2019/content/index.html)
 						
 </t>
 <t tx="leo.20180902120523.12"># W2-W5的內容
+
 
 * w2:建立自己的個人倉儲並下載可以攜帶的新套件
 * w3:編譯Solvespace
@@ -325,7 +325,22 @@ QLineEdit#editorLabel {
 }</t>
 <t tx="leo.20180902120538.3">horizontal: body pane to the left
 vertical: body pane on the botton</t>
-<t tx="leo.20191108171728.1"># W6內容
+<t tx="leo.20191108173101.1"># W6內容
+
+* Solvespace繪製雙輪自走車
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/GQ4JLwFPZGI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+* 網際V-rep模型控制
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/Q3swpNTDmxk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;small&gt;
+[w6-w9](https://s40723243.github.io/cad2019/content/week6-9.html)
+
+
+</t>
+<t tx="leo.20191108173649.1"># W7內容
 
 * Solvespace繪製雙輪自走車
 
