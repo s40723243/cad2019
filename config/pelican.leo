@@ -25,6 +25,7 @@
 <v t="yen.20170108171733.7"><vh>@edit pelicanconf.py</vh></v>
 <v t="leo.20170709015947.1"><vh>遠端</vh></v>
 <v t="leo.20170709015955.1"><vh>@edit publishconf.py</vh></v>
+<v t="leo.20191108164059.1"><vh>@auto blog\index.html</vh></v>
 <v t="leo.20170709015940.1"><vh>近端</vh></v>
 <v t="yen.20170108171733.6"><vh>@edit local_publishconf.py</vh></v>
 </v>
