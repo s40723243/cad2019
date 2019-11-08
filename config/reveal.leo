@@ -23,19 +23,22 @@
 </v>
 <v t="leo.20180902120523.11"><vh>快捷鍵</vh>
 <v t="leo.20180902120523.12"><vh>投影片快捷鍵</vh></v>
-<v t="leo.20191108173101.1"><vh>投影片快捷鍵</vh></v>
-<v t="leo.20191108173649.1"><vh>投影片快捷鍵</vh></v>
+</v>
+<v t="leo.20191101144738.1"><vh>week2~9</vh>
+<v t="leo.20191101144826.1"><vh>week</vh></v>
 </v>
 <v t="leo.20180902120523.13"><vh>各式內容引用範例</vh>
 <v t="leo.20180902120523.14"><vh>導入數學符號與方程式</vh>
-<v t="leo.20180902120523.17"><vh>引用程式碼</vh></v>
 <v t="leo.20180902120523.15"><vh>LaTeX 格式方程式</vh></v>
 </v>
-<v t="leo.20180902120523.18"><vh>導入影片</vh></v>
+<v t="leo.20180902120523.16"><vh>導入縮排程式碼</vh>
+<v t="leo.20180902120523.17"><vh>引用程式碼</vh></v>
 </v>
-</v>
-<v t="leo.20180902120523.16"><vh>導入縮排程式碼</vh></v>
+<v t="leo.20180902120523.18"><vh>導入影片</vh>
 <v t="leo.20180902120523.19"><vh>iframe 導入影片</vh></v>
+</v>
+</v>
+</v>
 </v>
 </v>
 </v>
@@ -45,14 +48,15 @@
 </vnodes>
 <tnodes>
 <t tx="leo.20180902120523.1"></t>
-<t tx="leo.20180902120523.10">## 40723243 網際內容管理
+<t tx="leo.20180902120523.10">## s40723243 網際內容管理
 
+### KMOLab
 
 &lt;small&gt;
 Created by [劉子源](https://s40723243.github.io/cad2019/content/index.html)
 &lt;/small&gt;
 
-[CMSimfly 網誌](./../blog/index.html)
+[40723243 網誌](https://s40723243.github.io/cad2019/blog/index.html)
 
 
 </t>
@@ -65,17 +69,14 @@ Created by [劉子源](https://s40723243.github.io/cad2019/content/index.html)
 
 						
 </t>
-<t tx="leo.20180902120523.12"># W2-W5的內容
+<t tx="leo.20180902120523.12"># 投影片快捷鍵
 
-
-* w2:建立自己的個人倉儲並下載可以攜帶的新套件
-* w3:編譯Solvespace
-* w4:自主訓練以及新增浮水印
-* w5:Solvespace的簡單操作以及練習
-
-&lt;small&gt;
-[倉儲連結](https://s40723243.github.io/cad2019/content/week2-5.html)
-
+* 利用箭頭上下前後換頁
+* 按 f 鍵進入全螢幕模式 (full screen)
+* 按 s 鍵可以顯示投影片筆記 (show)
+* 按 o 鍵可以切換單張或全域檢視 (overview)
+* 按 b 或 . 鍵可以切換螢幕黑屏 (black)
+* 按 Esc 可以退出全螢幕或全域檢視 (Escape)
 
 </t>
 <t tx="leo.20180902120523.13">&lt;section&gt;
@@ -153,7 +154,7 @@ make.start()
 
 ### 導入影片 template
 
-&lt;iframe src="https://player.vimeo.com/video/183950627" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/HP_FiP3hAts" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 </t>
 <t tx="leo.20180902120523.2"></t>
 <t tx="leo.20180902120523.3">@language xml
@@ -325,30 +326,24 @@ QLineEdit#editorLabel {
 }</t>
 <t tx="leo.20180902120538.3">horizontal: body pane to the left
 vertical: body pane on the botton</t>
-<t tx="leo.20191108173101.1"># W6內容
+<t tx="leo.20191101144738.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20191101144826.1"># cad2019d 課程簡介
 
-* Solvespace繪製雙輪自走車
-
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/GQ4JLwFPZGI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+* W2:建立自己的個人倉儲並下載可以攜帶的新套件
+* W3:編譯Solvespace
+* w4:自主訓練以及新增浮水印
+* W5:Solvespace的簡單操作以及練習
+* W6:Solvespace繪製雙輪自走車和網際V-rep模型控制
+* W7:Solvespace加入學號和Solvespace繪圖驗證
+* W8:導入Webots和網誌開啟
+* W9:期中自評以及製作期中影片
 
 &lt;small&gt;
-[w6-w9](https://s40723243.github.io/cad2019/content/week6-9.html)
-
-
-</t>
-<t tx="leo.20191108173649.1"># W6內容
-
-* Solvespace繪製雙輪自走車
-
-
-* 網際V-rep模型控制
-
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/Q3swpNTDmxk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
-
-&lt;small&gt;
-[w6-w9](https://s40723243.github.io/cad2019/content/week6-9.html)
-
-
-</t>
+[倉儲連結](https://s40723243.github.io/cad2019/content/week2-5.html)</t>
 </tnodes>
 </leo_file>
