@@ -331,20 +331,15 @@ vertical: body pane on the botton</t>
 
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/GQ4JLwFPZGI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 
-* 網際V-rep模型控制
-
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/Q3swpNTDmxk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
-
 &lt;small&gt;
 [w6-w9](https://s40723243.github.io/cad2019/content/week6-9.html)
 
 
 </t>
-<t tx="leo.20191108173649.1"># W7內容
+<t tx="leo.20191108173649.1"># W6內容
 
 * Solvespace繪製雙輪自走車
 
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/GQ4JLwFPZGI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 
 * 網際V-rep模型控制
 
