@@ -6,7 +6,7 @@ Title: About
 
 內容管理: <a href="https://s40723243.github.io/cad2019/reveal/index.html#/">https://s40723243.github.io/cad2019/reveal/index.html#/</a>
 
-期中影片: <a href="https://www.youtube.com/watch?v=EjMTw2I-nF0&feature=youtu.be">https://www.youtube.com/watch?v=EjMTw2I-nF0&feature=youtu.be</a>
+期中影片: <a href="https://www.youtube.com/watch?v=emR-s8Sj0-8&feature=youtu.be">https://www.youtube.com/watch?v=emR-s8Sj0-8&feature=youtu.be</a>
 
 課程網誌: <a href="https://s40723243.github.io/cad2019/blog/index.html">https://s40723243.github.io/cad2019/blog/index.htmlblog</a>
 
