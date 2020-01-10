@@ -33,6 +33,15 @@
 <v t="leo.20200110115807.1"><vh>week13</vh>
 <v t="leo.20200110115807.2"><vh>week</vh></v>
 </v>
+<v t="leo.20200110121555.1"><vh>week15</vh>
+<v t="leo.20200110121555.2"><vh>week</vh></v>
+</v>
+<v t="leo.20200110122258.1"><vh>week16</vh>
+<v t="leo.20200110122258.2"><vh>week</vh></v>
+</v>
+<v t="leo.20200110122532.1"><vh>week17</vh>
+<v t="leo.20200110122532.2"><vh>week</vh></v>
+</v>
 <v t="leo.20180902120523.13"><vh>各式內容引用範例</vh>
 <v t="leo.20180902120523.18"><vh>導入影片</vh>
 <v t="leo.20180902120523.19"><vh>iframe 導入影片</vh></v>
@@ -94,7 +103,7 @@ Created by [劉子源](https://s40723243.github.io/cad2019/content/index.html)
 <t tx="leo.20180902120523.5">&lt;head&gt;
     &lt;meta charset="utf-8"&gt;
 &lt;title&gt;
-CMSimfly 網際內容管理
+40723243 reval
 &lt;/title&gt;
     &lt;meta name="description" content="A framework for easily creating beautiful presentations using HTML"&gt;
     &lt;meta name="author" content="Hakim El Hattab"&gt;
@@ -309,5 +318,48 @@ vertical: body pane on the botton</t>
 
 &lt;small&gt;
 [倉儲連結](https://s40723243.github.io/cad2019/content/week10-14.html)</t>
+<t tx="leo.20200110121555.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20200110121555.2"># W15內容
+
+* 個人學習成果回報
+
+
+
+&lt;small&gt;
+[倉儲連結](https://s40723243.github.io/cad2019/content/week15-18.html)</t>
+<t tx="leo.20200110122258.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20200110122258.2"># W16內容
+
+* 將越野車零組件導入webot
+* 將越野車零組件導入vrep
+
+
+&lt;small&gt;
+[倉儲連結](https://s40723243.github.io/cad2019/content/week15-18.html)</t>
+<t tx="leo.20200110122532.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20200110122532.2"># W17內容
+
+* 分組任務翻譯(Building a clean model tutorial)
+* 翻譯(Webots User Guide)
+* 個人任務:各組員獨立製作
+
+
+&lt;small&gt;
+[倉儲連結](https://s40723243.github.io/cad2019/content/week15-18.html)</t>
 </tnodes>
 </leo_file>
