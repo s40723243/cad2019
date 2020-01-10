@@ -63,6 +63,24 @@
 <v t="leo.20200110125052.1"><vh>week7影片</vh>
 <v t="leo.20200110125052.2"><vh>week</vh></v>
 </v>
+<v t="leo.20200110125338.1"><vh>week8影片</vh>
+<v t="leo.20200110125338.2"><vh>week</vh></v>
+</v>
+<v t="leo.20200110125506.1"><vh>week8影片</vh>
+<v t="leo.20200110125506.2"><vh>week</vh></v>
+</v>
+<v t="leo.20200110125549.1"><vh>week10影片</vh>
+<v t="leo.20200110125549.2"><vh>week</vh></v>
+</v>
+<v t="leo.20200110125845.1"><vh>week12影片</vh>
+<v t="leo.20200110125845.2"><vh>week</vh></v>
+</v>
+<v t="leo.20200110125701.1"><vh>week13影片</vh>
+<v t="leo.20200110125701.2"><vh>week</vh></v>
+</v>
+<v t="leo.20200110125808.1"><vh>week13影片</vh>
+<v t="leo.20200110125808.2"><vh>week</vh></v>
+</v>
 <v t="leo.20180902120523.13"><vh>各式內容引用範例</vh>
 <v t="leo.20180902120523.18"><vh>導入影片</vh>
 <v t="leo.20180902120523.19"><vh>iframe 導入影片</vh></v>
@@ -488,5 +506,101 @@ vertical: body pane on the botton</t>
 
 &lt;small&gt;
 [影片連結](https://www.youtube.com/watch?v=2GCNcJ7J2ko)</t>
+<t tx="leo.20200110125338.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20200110125338.2"># Week8影片
+
+* 導入Webots
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/vuIHMrQgIiM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+
+
+&lt;small&gt;
+[影片連結](https://www.youtube.com/watch?v=vuIHMrQgIiM&amp;feature=youtu.be)</t>
+<t tx="leo.20200110125506.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20200110125506.2"># Week8影片
+
+* 網誌開啟
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/9EOU3e9B8_4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+
+
+&lt;small&gt;
+[影片連結](https://www.youtube.com/watch?v=9EOU3e9B8_4&amp;feature=youtu.be)</t>
+<t tx="leo.20200110125549.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20200110125549.2"># Week10影片
+
+* sodiworks的繪圖練習
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/0mVgqw164PI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+
+
+&lt;small&gt;
+[影片連結](https://www.youtube.com/watch?v=0mVgqw164PI)</t>
+<t tx="leo.20200110125701.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20200110125701.2"># Week12影片
+
+* 13周之前的內容簡報
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/HHE8XSvZRXU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+
+
+&lt;small&gt;
+[影片連結](https://www.youtube.com/watch?v=HHE8XSvZRXU)</t>
+<t tx="leo.20200110125808.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20200110125808.2"># Week13影片
+
+* webot tutorial - 1
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/gQuszM7lGB8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+
+
+&lt;small&gt;
+[影片連結](https://www.youtube.com/watch?v=gQuszM7lGB8&amp;feature=youtu.be)</t>
+<t tx="leo.20200110125845.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20200110125845.2"># Week12影片
+
+* NX第8章翻譯結果練習
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/9tC1mZya2_E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+
+
+&lt;small&gt;
+[影片連結](https://www.youtube.com/watch?v=9tC1mZya2_E&amp;feature=youtu.be)</t>
 </tnodes>
 </leo_file>
