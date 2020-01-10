@@ -81,6 +81,18 @@
 <v t="leo.20200110125808.1"><vh>week13影片</vh>
 <v t="leo.20200110125808.2"><vh>week</vh></v>
 </v>
+<v t="leo.20200110130116.1"><vh>week15影片</vh>
+<v t="leo.20200110130116.2"><vh>week</vh></v>
+</v>
+<v t="leo.20200110130118.1"><vh>week16影片</vh>
+<v t="leo.20200110130118.2"><vh>week</vh></v>
+</v>
+<v t="leo.20200110130356.1"><vh>week16影片</vh>
+<v t="leo.20200110130356.2"><vh>week</vh></v>
+</v>
+<v t="leo.20200110130439.1"><vh>week17影片</vh>
+<v t="leo.20200110130439.2"><vh>week</vh></v>
+</v>
 <v t="leo.20180902120523.13"><vh>各式內容引用範例</vh>
 <v t="leo.20180902120523.18"><vh>導入影片</vh>
 <v t="leo.20180902120523.19"><vh>iframe 導入影片</vh></v>
@@ -602,5 +614,67 @@ vertical: body pane on the botton</t>
 
 &lt;small&gt;
 [影片連結](https://www.youtube.com/watch?v=9tC1mZya2_E&amp;feature=youtu.be)</t>
+<t tx="leo.20200110130116.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20200110130116.2"># Week15影片
+
+* 學習個人成果回報
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/eT-i_oYouj4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+
+
+&lt;small&gt;
+[影片連結](https://www.youtube.com/watch?v=eT-i_oYouj4&amp;feature=youtu.be)</t>
+<t tx="leo.20200110130118.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20200110130118.2"># Week16影片
+
+* 將越野車零組件導入vrep
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/blJILUWKwf8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+
+
+&lt;small&gt;
+[影片連結](https://www.youtube.com/watch?v=blJILUWKwf8)</t>
+<t tx="leo.20200110130356.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20200110130356.2"># Week16影片
+
+* 將越野車零組件導入webot
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/uPCe-5qKRA0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+
+&lt;small&gt;
+[影片連結](https://www.youtube.com/watch?v=uPCe-5qKRA0)</t>
+<t tx="leo.20200110130439.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20200110130439.2"># Week16影片
+
+* 各組員獨立製作題
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/ZlUL-lxG5uM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+
+&lt;small&gt;
+[影片連結](https://www.youtube.com/watch?v=ZlUL-lxG5uM&amp;feature=youtu.be)</t>
 </tnodes>
 </leo_file>
