@@ -42,6 +42,15 @@
 <v t="leo.20200110122532.1"><vh>week17</vh>
 <v t="leo.20200110122532.2"><vh>week</vh></v>
 </v>
+<v t="leo.20200110123611.1"><vh>week2影片</vh>
+<v t="leo.20200110123611.2"><vh>week</vh></v>
+</v>
+<v t="leo.20200110123853.1"><vh>week3影片</vh>
+<v t="leo.20200110123853.2"><vh>week</vh></v>
+</v>
+<v t="leo.20200110123855.1"><vh>week5影片</vh>
+<v t="leo.20200110123855.2"><vh>week</vh></v>
+</v>
 <v t="leo.20180902120523.13"><vh>各式內容引用範例</vh>
 <v t="leo.20180902120523.18"><vh>導入影片</vh>
 <v t="leo.20180902120523.19"><vh>iframe 導入影片</vh></v>
@@ -356,8 +365,47 @@ vertical: body pane on the botton</t>
 
 * 分組任務翻譯(Building a clean model tutorial)
 * 翻譯(Webots User Guide)
-* 個人任務:各組員獨立製作
+* 個人任務:各組員獨立製作將越野車導入vrep
 
+
+&lt;small&gt;
+[倉儲連結](https://s40723243.github.io/cad2019/content/week15-18.html)</t>
+<t tx="leo.20200110123611.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20200110123611.2"># Week2影片
+
+* 建立個人的 cad2019倉儲
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/rkhGfvRbUt4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;small&gt;
+[倉儲連結](https://s40723243.github.io/cad2019/content/week15-18.html)</t>
+<t tx="leo.20200110123853.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20200110123853.2"># Week3影片
+
+* Solvespace 編譯
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/HP_FiP3hAts" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;small&gt;
+[倉儲連結](https://s40723243.github.io/cad2019/content/week15-18.html)</t>
+<t tx="leo.20200110123855.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20200110123855.2"># Week5影片
+
+* Solvespace 的簡單操作
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/ChDmSAdeyMo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 
 &lt;small&gt;
 [倉儲連結](https://s40723243.github.io/cad2019/content/week15-18.html)</t>
