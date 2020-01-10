@@ -54,14 +54,14 @@
 <v t="leo.20200110124144.1"><vh>week6影片</vh>
 <v t="leo.20200110124144.2"><vh>week</vh></v>
 </v>
-<v t="leo.20200110124146.1"><vh>week5影片</vh>
-<v t="leo.20200110124146.2"><vh>week</vh></v>
+<v t="leo.20200110124920.1"><vh>week6影片</vh>
+<v t="leo.20200110124920.2"><vh>week</vh></v>
 </v>
-<v t="leo.20200110124147.1"><vh>week5影片</vh>
-<v t="leo.20200110124147.2"><vh>week</vh></v>
+<v t="leo.20200110125004.1"><vh>week7影片</vh>
+<v t="leo.20200110125004.2"><vh>week</vh></v>
 </v>
-<v t="leo.20200110124149.1"><vh>week5影片</vh>
-<v t="leo.20200110124149.2"><vh>week</vh></v>
+<v t="leo.20200110125052.1"><vh>week7影片</vh>
+<v t="leo.20200110125052.2"><vh>week</vh></v>
 </v>
 <v t="leo.20180902120523.13"><vh>各式內容引用範例</vh>
 <v t="leo.20180902120523.18"><vh>導入影片</vh>
@@ -395,7 +395,7 @@ vertical: body pane on the botton</t>
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/rkhGfvRbUt4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 
 &lt;small&gt;
-[倉儲連結](https://s40723243.github.io/cad2019/content/week15-18.html)</t>
+[影片連結](https://www.youtube.com/watch?v=rkhGfvRbUt4&amp;feature=youtu.be)</t>
 <t tx="leo.20200110123853.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -404,12 +404,12 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="leo.20200110123853.2"># Week3影片
 
-* Solvespace 編譯
+*Solvespace 編譯
 
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/HP_FiP3hAts" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 
 &lt;small&gt;
-[倉儲連結](https://s40723243.github.io/cad2019/content/week15-18.html)</t>
+[影片連結](https://www.youtube.com/watch?v=HP_FiP3hAts&amp;feature=youtu.be)</t>
 <t tx="leo.20200110123855.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -419,61 +419,74 @@ vertical: body pane on the botton</t>
 <t tx="leo.20200110123855.2"># Week5影片
 
 * Solvespace 的簡單操作
+
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/ChDmSAdeyMo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 
 &lt;small&gt;
-[倉儲連結](https://s40723243.github.io/cad2019/content/week15-18.html)</t>
+[影片連結](https://www.youtube.com/watch?v=ChDmSAdeyMo&amp;feature=youtu.be)</t>
 <t tx="leo.20200110124144.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
 &lt;/section&gt;
 </t>
-<t tx="leo.20200110124144.2"># Week5影片
+<t tx="leo.20200110124144.2"># Week6影片
 
-* Solvespace 的簡單操作
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/ChDmSAdeyMo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+* Solvespace繪製雙輪自走車
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/GQ4JLwFPZGI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+
 
 &lt;small&gt;
-[倉儲連結](https://s40723243.github.io/cad2019/content/week15-18.html)</t>
-<t tx="leo.20200110124146.1">&lt;section data-markdown&gt;
+[影片連結](https://www.youtube.com/watch?v=GQ4JLwFPZGI&amp;feature=youtu.be)</t>
+<t tx="leo.20200110124920.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
 &lt;/section&gt;
 </t>
-<t tx="leo.20200110124146.2"># Week5影片
+<t tx="leo.20200110124920.2"># Week6影片
 
-* Solvespace 的簡單操作
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/ChDmSAdeyMo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+* 網際V-rep模型控制
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/Q3swpNTDmxk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+
 
 &lt;small&gt;
-[倉儲連結](https://s40723243.github.io/cad2019/content/week15-18.html)</t>
-<t tx="leo.20200110124147.1">&lt;section data-markdown&gt;
+[影片連結](https://www.youtube.com/watch?v=Q3swpNTDmxk&amp;feature=youtu.be)</t>
+<t tx="leo.20200110125004.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
 &lt;/section&gt;
 </t>
-<t tx="leo.20200110124147.2"># Week5影片
+<t tx="leo.20200110125004.2"># Week7影片
 
-* Solvespace 的簡單操作
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/ChDmSAdeyMo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+* Solvespace加入學號
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/pQPMRe8Jl8U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+
 
 &lt;small&gt;
-[倉儲連結](https://s40723243.github.io/cad2019/content/week15-18.html)</t>
-<t tx="leo.20200110124149.1">&lt;section data-markdown&gt;
+[影片連結](https://www.youtube.com/watch?v=pQPMRe8Jl8U)</t>
+<t tx="leo.20200110125052.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
 &lt;/section&gt;
 </t>
-<t tx="leo.20200110124149.2"># Week5影片
+<t tx="leo.20200110125052.2"># Week7影片
 
-* Solvespace 的簡單操作
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/ChDmSAdeyMo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+* Solvespace繪圖驗證
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/2GCNcJ7J2ko" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+
 
 &lt;small&gt;
-[倉儲連結](https://s40723243.github.io/cad2019/content/week15-18.html)</t>
+[影片連結](https://www.youtube.com/watch?v=2GCNcJ7J2ko)</t>
 </tnodes>
 </leo_file>
