@@ -21,19 +21,19 @@
 <v t="leo.20180902120523.9"><vh>封面投影片</vh>
 <v t="leo.20180902120523.10"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20180902120523.11"><vh>快捷鍵</vh>
-<v t="leo.20180902120523.12"><vh>投影片快捷鍵</vh></v>
-</v>
 <v t="leo.20191101144738.1"><vh>week2~9</vh>
 <v t="leo.20191101144826.1"><vh>week</vh></v>
 </v>
+<v t="leo.20200110115019.1"><vh>week10</vh>
+<v t="leo.20200110115019.2"><vh>week</vh></v>
+</v>
+<v t="leo.20200110115355.1"><vh>week12</vh>
+<v t="leo.20200110115355.2"><vh>week</vh></v>
+</v>
+<v t="leo.20200110115807.1"><vh>week13</vh>
+<v t="leo.20200110115807.2"><vh>week</vh></v>
+</v>
 <v t="leo.20180902120523.13"><vh>各式內容引用範例</vh>
-<v t="leo.20180902120523.14"><vh>導入數學符號與方程式</vh>
-<v t="leo.20180902120523.15"><vh>LaTeX 格式方程式</vh></v>
-</v>
-<v t="leo.20180902120523.16"><vh>導入縮排程式碼</vh>
-<v t="leo.20180902120523.17"><vh>引用程式碼</vh></v>
-</v>
 <v t="leo.20180902120523.18"><vh>導入影片</vh>
 <v t="leo.20180902120523.19"><vh>iframe 導入影片</vh></v>
 </v>
@@ -60,86 +60,10 @@ Created by [劉子源](https://s40723243.github.io/cad2019/content/index.html)
 
 
 </t>
-<t tx="leo.20180902120523.11">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20180902120523.12"># 投影片快捷鍵
-
-* 利用箭頭上下前後換頁
-* 按 f 鍵進入全螢幕模式 (full screen)
-* 按 s 鍵可以顯示投影片筆記 (show)
-* 按 o 鍵可以切換單張或全域檢視 (overview)
-* 按 b 或 . 鍵可以切換螢幕黑屏 (black)
-* 按 Esc 可以退出全螢幕或全域檢視 (Escape)
-
-</t>
 <t tx="leo.20180902120523.13">&lt;section&gt;
 @others
 &lt;/section&gt;
 
-</t>
-<t tx="leo.20180902120523.14">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-
-						
-</t>
-<t tx="leo.20180902120523.15"># 數學符號與方程式
-
-Inline math equations go in like so: $\omega = d\phi / dt$. Display
-math should get its own line and be put in in double-dollarsigns:
-
-$$I = \int \rho R^{2} dV$$
-</t>
-<t tx="leo.20180902120523.16">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-
-						
-</t>
-<t tx="leo.20180902120523.17">## 利用 Markdown 寫投影片
-以下利用 Markdown 格式展示 Python 程式碼:
-```
-@language python
-# use threading and subprocess to threading the make process
-import os
-import subprocess
-import threading
-
-def domake():
-    
-    path = "../exposed/api/exposed"
-    ubuntu = "../Ubuntu"
-    
-    # create obj path
-    
-    if not os.path.exists(path+"/../obj"):
-        os.makedirs(path+"/../obj")
-    
-    subprocess.call(["make", "clean"], cwd=path)
-    subprocess.call("make", cwd=path)
-    subprocess.call(["cp", "{libslvs.so, _slvs.so, slvs.py}", ubuntu], cwd=path)
-    subprocess.call(["python3", "circle_ex.py"], cwd=path+"/"+ubuntu)
-    
-make = threading.Thread(target=domake)
-make.start()
-```
 </t>
 <t tx="leo.20180902120523.18">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -332,7 +256,7 @@ vertical: body pane on the botton</t>
     &lt;/script&gt;
 &lt;/section&gt;
 </t>
-<t tx="leo.20191101144826.1"># cad2019d 課程簡介
+<t tx="leo.20191101144826.1"># cad2019 課程簡介
 
 * W2:建立自己的個人倉儲並下載可以攜帶的新套件
 * W3:編譯Solvespace
@@ -345,5 +269,45 @@ vertical: body pane on the botton</t>
 
 &lt;small&gt;
 [倉儲連結](https://s40723243.github.io/cad2019/content/week2-5.html)</t>
+<t tx="leo.20200110115019.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20200110115019.2"># W10內容
+
+* W10建立分組倉儲和網站並讓組員fork
+* 並且分析NX跟sodiworks的差異
+* 以及用sodiworks練習畫零組件
+
+&lt;small&gt;
+[倉儲連結](https://s40723243.github.io/cad2019/content/week10-14.html)</t>
+<t tx="leo.20200110115355.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20200110115355.2"># W12內容
+
+* 翻譯NX電子書的內容
+* NX電子書地8章練習
+
+&lt;small&gt;
+[倉儲連結](https://s40723243.github.io/cad2019/content/week10-14.html)</t>
+<t tx="leo.20200110115807.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20200110115807.2"># W13內容
+
+* 13週前的內容簡報
+* webot tutorial - 1
+
+&lt;small&gt;
+[倉儲連結](https://s40723243.github.io/cad2019/content/week10-14.html)</t>
 </tnodes>
 </leo_file>
